@@ -11,8 +11,8 @@
 ## Programmers
 
 [[1차]셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)
-
 [수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)
+[N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952)
 
 ## LeetCode
 
