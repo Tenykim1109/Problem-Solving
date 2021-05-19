@@ -5,7 +5,6 @@
 
 ## Baekjoon OJ
 
-
 [[5430]AC](https://www.acmicpc.net/problem/5430)
 
 ## Programmers
@@ -17,4 +16,4 @@
 ## LeetCode
 
 [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
-
+[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
