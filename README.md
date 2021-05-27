@@ -18,3 +18,5 @@
 
 [Count Nice Pairs in an Array](https://leetcode.com/problems/count-nice-pairs-in-an-array/)
 [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+[Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/)
+[Broken Calculator](https://leetcode.com/problems/broken-calculator/)
